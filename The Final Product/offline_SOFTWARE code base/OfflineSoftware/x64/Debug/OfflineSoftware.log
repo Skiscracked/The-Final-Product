@@ -1,0 +1,7 @@
+﻿  offlineimplementation.c
+  offlinesoftware.c
+  Generating Code...
+C:\Users\semil\OneDrive\Documents(main)\School work\3rd year SK\System Analysis- 3401\Project\Versions\offline_SOFTWARE code base\offlineimplementation.c(153): warning C4715: 'findVehicleIndex': not all control paths return a value
+C:\Users\semil\OneDrive\Documents(main)\School work\3rd year SK\System Analysis- 3401\Project\Versions\offline_SOFTWARE code base\offlineimplementation.c(181): warning C4715: 'findBillIndex': not all control paths return a value
+C:\Users\semil\OneDrive\Documents(main)\School work\3rd year SK\System Analysis- 3401\Project\Versions\offline_SOFTWARE code base\offlineimplementation.c(168): warning C4715: 'findCustomerIndex': not all control paths return a value
+  OfflineSoftware.vcxproj -> C:\Users\semil\OneDrive\Documents(main)\School work\3rd year SK\System Analysis- 3401\Project\Versions\offline_SOFTWARE code base\OfflineSoftware\x64\Debug\OfflineSoftware.exe
